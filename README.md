@@ -1,6 +1,6 @@
 # MySQL RREF Function
 
-I woke up 1 day and decided I needed to make this function within SQL, it was a great exercise in learning how to use SQL and json functions. \
+I woke up 1 day and decided I needed to make this function within SQL, it was a great exercise in learning how to use SQL and json functions. 
 
 With a help of vibe coding (cursor, whisper flow and ChatGPT o3-mini-high), I did it. 
 ## Background
