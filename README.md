@@ -1,6 +1,6 @@
 # MySQL RREF Function
 
-I was studying some linear algebra and decided I needed to bend MySQL to my will since I was also applying SQL at work. This function lets you convert a matrix into reduced row-echelon form (i.e., Gaussian elimination)
+I was studying some linear algebra and decided I needed to bend MySQL to my will since I'm also applying SQL at work. This function lets you convert a matrix into reduced row-echelon form (i.e., Gaussian elimination)
 
 With a help of vibe coding (cursor, whisper flow and ChatGPT o3-mini-high), I did it. 
 
