@@ -1,4 +1,4 @@
-# MySQL Function - Reduced row-echelon form (i.e., Gaussian elimination)
+# MySQL Algo - Reduced row-echelon form (i.e., Gaussian elimination)
 
 I was studying some linear algebra and decided I needed to bend MySQL to my will since I'm also applying SQL at work. This function lets you convert a matrix into reduced row-echelon form (i.e., Gaussian elimination)
 
